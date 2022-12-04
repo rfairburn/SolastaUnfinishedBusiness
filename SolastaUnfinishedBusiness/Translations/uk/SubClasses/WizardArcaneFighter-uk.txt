@@ -1,0 +1,12 @@
+Feature/&AdditionalActionArcaneFighterDescription=Ви можете застосувати заклинання після перемоги над ворогом своїми атаками зброєю.
+Feature/&AdditionalActionArcaneFighterTitle=Боротьба з заклинаннями
+Feature/&AdditionalDamageArcaneFighterBonusWeaponDescription=Раз за хід ваша атака зброєю завдає додаткової шкоди 1d8.
+Feature/&AdditionalDamageArcaneFighterBonusWeaponTitle=Магічні атаки
+Feature/&PowerArcaneFighterEnchantWeaponDescription=Коли зброя активна, її атаки вважаються магічними, і ви використовуєте свій інтелект для кидків атаки та шкоди.
+Feature/&PowerArcaneFighterEnchantWeaponTitle=Таємнича зброя
+Feature/&MagicAffinityArcaneFighterConcentrationAdvantageDescription=Завдяки досвіду в хаосі бою, отримуйте перевагу при перевірці концентрації.
+Feature/&MagicAffinityArcaneFighterConcentrationAdvantageTitle=Покращена концентрація
+Feedback/&AdditionalDamageArcaneFighterFormat=Arcane Fighter!
+Feedback/&AdditionalDamageArcaneFighterLine=Arcane Fighter завдає додаткової шкоди +{2}!
+Subclass/&WizardArcaneFighterDescription=Спрямуйте свою магію на атаки зі зброєю.
+Subclass/&WizardArcaneFighterTitle=Arcane Fighter

@@ -1,0 +1,12 @@
+﻿Feature/&FeatureSetWayOfSilhouetteSilhouetteArtsDescription=Починаючи з того моменту, коли ви обираєте цю традицію на 3-му рівні, ви можете витратити 2 очки ki, щоб накласти темряву, темряву, пройти безслідно або тишу, не надаючи матеріальних компонентів. Крім того, ви отримуєте здатність відбивати світло, якщо ви цього ще не знаєте.
+Feature/&FeatureSetWayOfSilhouetteSilhouetteArtsTitle=Мистецтво силуету
+Feature/&LightAffinityWayOfSilhouetteCloakOfSilhouettesStrongDescription=Cloak of Silhouettes тепер працює в тьмяному світлі та магічній темряві на додаток до природної темряви.
+Feature/&LightAffinityWayOfSilhouetteCloakOfSilhouettesStrongTitle=Покращений плащ силуетів
+Feature/&LightAffinityWayOfSilhouetteCloakOfSilhouettesWeakDescription=Якщо ви починаєте свій хід у природній темряві, ви стаєте невидимим. Переміщення темряви, атака чи використання будь-якої сили чи заклинання, які не спрямовані лише на вас, порушують невидимість.
+Feature/&LightAffinityWayOfSilhouetteCloakOfSilhouettesWeakTitle=Плащ силуетів
+Feature/&PowerWayOfSilhouetteImprovedSilhouetteStepDescription=Ненадовго оточений енергією ki, тепер ви можете взяти з собою союзника під час телепортації, і радіус дії збільшився.
+Feature/&PowerWayOfSilhouetteImprovedSilhouetteStepTitle=Покращений крок силуету
+Feature/&PowerWayOfSilhouetteSilhouetteStepDescription=Ви можете телепортуватися як бонус до 30 футів у незайнятий простір, який ви бачите. Ви можете використовувати цю силу стільки разів за тривалий відпочинок, скільки буде дорівнювати вашому бонусу майстерності.
+Feature/&PowerWayOfSilhouetteSilhouetteStepTitle=Силует Крок
+Subclass/&WayOfSilhouetteDescription=Ченці Шляху Силуету дотримуються традиції, яка цінує скритність і підступність. Ці монахи служать шпигунами і вбивцями. Іноді члени монастиря ніндзя є членами родини, утворюючи клан, який зобов’язався зберігати таємницю щодо свого мистецтва та місії. Інші монастирі більше схожі на гільдії злодіїв, які надають свої послуги вельможам, багатим купцям або будь-кому іншому, хто може заплатити їм гонорари. Незалежно від своїх методів, керівники цих монастирів очікують беззаперечного послуху своїх учнів.
+Subclass/&WayOfSilhouetteTitle=Шлях Силуету

@@ -1,0 +1,12 @@
+Feature/&CastSpellSpellShieldDescription=Використовуйте чарівні заклинання та підступи.
+Feature/&CastSpellSpellShieldTitle=Заклинання
+Feature/&MagicAffinitySpellShieldCombatMagicVigorDescription=Додайте свій модифікатор сили чи спритності, залежно від того, який із них вищий, до свого DC рятувального кидка заклинань і кидка атаки заклинань.
+Feature/&MagicAffinitySpellShieldCombatMagicVigorTitle=Бадьорість
+Feature/&PowerSpellShieldArcaneDeflectionDescription=Ви можете використовувати свої таємні сили, щоб захистити себе як відповідь. Це дає вам +3 до вашого AC до наступного повороту.
+Feature/&PowerSpellShieldArcaneDeflectionTitle=Таємне відхилення
+Feature/&PowerSpellShieldRangedDeflectionDescription=Коли зловмисник, якого ви бачите, вражає вас дистанційною атакою або заклинанням, ви можете використати свою реакцію, щоб удвічі зменшити шкоду від атаки проти вас.
+Feature/&PowerSpellShieldRangedDeflectionTitle=Дальнє відхилення
+Reaction/&SpendPowerPowerSpellShieldArcaneDeflectionDescription=Ви можете використовувати свої таємні сили, щоб захистити себе як відповідь.
+Reaction/&SpendPowerPowerSpellShieldArcaneDeflectionTitle=Щит заклинань
+Subclass/&MartialSpellShieldDescription=Spell Shields — бійці, які спеціалізуються на захисті та захисту. Вони використовують магію, щоб допомогти своїм природним здібностям.
+Subclass/&MartialSpellShieldTitle=Щит заклинань

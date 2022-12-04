@@ -1,0 +1,8 @@
+Feature/&MagicAffinityFieldManipulatorDCDescription=Супротивникам важче протистояти вашим чарам. DC збереження збільшується на 2.
+Feature/&MagicAffinityFieldManipulatorDCTitle=Таємна сила
+Feature/&PowerFieldManipulatorDominatePersonDescription=Ви можете використовувати Домінувати над людиною стільки разів за тривалий відпочинок, скільки відповідає вашому модифікатору Харизми.
+Feature/&PowerFieldManipulatorDominatePersonTitle=Домінувати над людиною
+Feature/&ProficiencyFieldManipulatorMentalSavingThrowsDescription=Отримайте майстерність у рятувальних кидках завдяки розуму та мудрості.
+Feature/&ProficiencyFieldManipulatorMentalSavingThrowsTitle=Психічний опір
+Subclass/&FieldManipulatorDescription=Польові маніпулятори чудово контролюють поле бою та не дозволяють ворогам атакувати їх.
+Subclass/&FieldManipulatorTitle=Польовий маніпулятор

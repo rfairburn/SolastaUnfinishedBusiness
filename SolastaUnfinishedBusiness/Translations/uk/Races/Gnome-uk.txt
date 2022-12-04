@@ -1,0 +1,14 @@
+Feature/&AttributeModifierForestGnomeAbilityScoreIncreaseDescription=Спритність +1
+Feature/&AttributeModifierForestGnomeAbilityScoreIncreaseTitle=Збільшення атрибутів лісового гнома
+Feature/&AttributeModifierGnomeAbilityScoreIncreaseDescription=Інтелект +2
+Feature/&AttributeModifierGnomeAbilityScoreIncreaseTitle=Збільшення атрибутів Gnome
+Feature/&SavingThrowAffinityGnomeCunningFeatureDescription=Ви маєте перевагу в усіх збереженнях інтелекту, мудрості та харизми проти магії.
+Feature/&SavingThrowAffinityGnomeCunningFeatureTitle=Хитрий
+Feature/&CastSpellGnomeNaturalIllusionistDescription=Ви знаєте дратівливу бджілку. Інтелект — це ваш модифікатор заклинань.
+Feature/&CastSpellGnomeNaturalIllusionistTitle=Природний ілюзіоніст
+Feature/&ProficiencyGnomeLanguagesDescription=Звичайний, гномський.
+Feature/&ProficiencyGnomeLanguagesTitle=Мови
+Language/&LanguageGnomishDescription=Стара соластанська мова, збережена гномами, що живуть у глухих лісах Соласти, пережила катаклізм.
+Language/&LanguageGnomishTitle=гномічне
+Race/&RaceGnomeDescription=Постійний гул активної діяльності пронизує лабиринти та околиці, де гноми утворюють свої згуртовані спільноти. Більш гучні звуки доповнюють гул: хрускіт зубчастих механізмів тут, легкий вибух там, здивований або тріумфальний крик і особливо вибухи сміху. Гноми насолоджуються життям, насолоджуючись кожною миттю винаходу, дослідження, дослідження, створення та гри.
+Race/&RaceGnomeTitle=гном

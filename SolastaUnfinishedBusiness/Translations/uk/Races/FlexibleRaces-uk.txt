@@ -1,0 +1,6 @@
+Feature/&PointPoolAbilityScore3Description=Використовуйте три підсилення балів здібностей у будь-якій комбінації на ваш вибір.
+Feature/&PointPoolAbilityScore3Title=Збільшення оцінки здатності
+Feature/&PointPoolAbilityScore4Description=Використовуйте чотири підсилення балів здібностей у будь-якій комбінації на ваш вибір.
+Feature/&PointPoolAbilityScore4Title=Збільшення оцінки здатності
+Feature/&PointPoolSelectBonusFeatsDescription=Виберіть {0} додаткових умінь для свого персонажа.
+Feature/&PointPoolSelectBonusFeatsTitle={0} Бонусні досягнення

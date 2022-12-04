@@ -1,0 +1,4 @@
+﻿Feat/&FeatImprovedCriticalDescription=Ваші атаки є критичними ударами при кидку 19 або 20.
+Feat/&FeatImprovedCriticalTitle=Покращено критично
+Feat/&FeatSuperiorCriticalDescription=Ваші атаки є критичними ударами при кидку 18, 19 або 20.
+Feat/&FeatSuperiorCriticalTitle=Вищий критичний

@@ -1,0 +1,17 @@
+Feature/&AttributeModifierDarkelfCharismaAbilityScoreIncreaseDescription=Харизма +1
+Feature/&AttributeModifierDarkelfCharismaAbilityScoreIncreaseTitle=Збільшення оцінки здатності
+Feature/&CastSpellDarkelfMagicDescription=Ви знаєте танцюючі вогні. На 3-му рівні ви вивчаєте Феєричний вогонь, а на 5-му — Темряву. Обидва можна використовувати один раз протягом тривалого відпочинку.
+Feature/&CastSpellDarkelfMagicTitle=Магія темних ельфів
+Feature/&PowerDarkelfDarknessDescription=Створіть область чарівної темряви. Можна використовувати один раз під час тривалого відпочинку.
+Feature/&PowerDarkelfDarknessTitle=Темрява
+Feature/&PowerDarkelfFaerieFireDescription=Виділіть істот, щоб дати перевагу тим, хто їх атакує. Можна використовувати один раз під час тривалого відпочинку.
+Feature/&PowerDarkelfFaerieFireTitle=Феєрія Вогню
+Feature/&ProficiencyDarkelfWeaponTrainingDescription=Ви добре володієте рапірами, короткими мечами та ручними арбалетами.
+Feature/&ProficiencyDarkelfWeaponTrainingTitle=Навчання зброї темних ельфів
+Race/&DarkelfSurName1Title=За'Морира
+Race/&DarkelfSurName2Title=DhalNeridthas
+Race/&DarkelfSurName3Title=DhalNerwenys
+Race/&DarkelfSurName4Title=Приходьте до Сонти
+Race/&DarkelfSurName5Title=Зо'Ремон
+Race/&RaceDarkelfDescription=Темні ельфи є нащадками ельфів, які з часом змінилися, живучи в негостинних Безплодних землях. Темні ельфи здебільшого ведуть нічний спосіб життя і пристосувалися жити в стародавніх руїнах Бесплодних земель, особливо в похованих підземних руїнах. Вони, як правило, мають темну шкіру і світле волосся.
+Race/&RaceDarkelfTitle=темний ельф

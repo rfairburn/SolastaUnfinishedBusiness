@@ -1,0 +1,16 @@
+Condition/&ConditionMarkedByArcanistDescription=Коли заклинатель влучає під час атаки зброєю, мітка детонує, завдаючи 1d6 сили шкоди постраждалому та знищуючи мітку. Починаючи з 11-го рівня, шкода від вашої Arcane Detonation збільшується до 2d6.
+Condition/&ConditionMarkedByArcanistTitle=Знак чарівника
+Feature/&AdditionalDamageArcanistArcaneDetonationDescription=Починаючи з 3-го рівня, ви наділяєте свою зброю магічною силою. Істоти, яких вражають ваші атаки, отримують Знак Чарівника.
+Feature/&AdditionalDamageArcanistArcaneDetonationTitle=Таємнича детонація
+Feature/&AdditionalDamageArcanistArcaneDetonationUpgradeDescription=Починаючи з 11-го рівня, шкода від вашої Arcane Detonation збільшується до 2d6.
+Feature/&AdditionalDamageArcanistArcaneDetonationUpgradeTitle=Велика таємнича детонація
+Feature/&AutoPreparedSpellsArcanistDescription=Ви отримуєте додаткові заклинання, які для вас вважаються заклинаннями рейнджерів, вони завжди підготовлені та не зараховуються до кількості заклинань рейнджерів, які вам відомі: \n{0}\n\n
+Feature/&AutoPreparedSpellsArcanistTitle=Бонусні заклинання Arcanist
+Feature/&MagicAffinityRangerArcanistDescription=Ви вмієте використовувати заклинання в бою і можете використовувати заклинання, які потребують соматичного компоненту, навіть якщо обидві ваші руки тримають зброю чи щит.
+Feature/&MagicAffinityRangerArcanistTitle=Аркан бойова підготовка
+Feature/&PowerArcanistArcanePulseDescription=Починаючи з 7-го рівня, ви можете викликати викид магічної енергії на відстані 30 футів. Ворожі істоти в радіусі 15 футів від точки удару отримують шкоди 4d8 і отримують позначку Чарівника. Ви можете використати цю здатність кількість разів, що дорівнює вашому модифікатору Мудрості за тривалий відпочинок. На 15-му рівні шкода від Arcane Pulse збільшується до 8d8.
+Feature/&PowerArcanistArcanePulseTitle=Аркан Пульс
+Feedback/&AdditionalDamageArcanistMarkFormat=Знак Чарівника!
+Feedback/&AdditionalDamageArcanistMarkLine=Знак Чарівника детонує та завдає додаткової шкоди цілі!
+Subclass/&RangerArcanistDescription=Арканіст поєднує свої навички рейнджера з таємничими здібностями. Їхня зброя може вражати своїх супротивників Знаком Чарівника, і вони навчилися використовувати деякі заклинання Чарівника як частину свого репертуару заклинань Рейнджера.
+Subclass/&RangerArcanistTitle=Арканіст

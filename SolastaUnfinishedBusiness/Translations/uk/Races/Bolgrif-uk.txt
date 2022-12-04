@@ -1,0 +1,14 @@
+Feature/&AttributeModifierBolgrifStrengthAbilityScoreIncreaseDescription=Сила +1
+Feature/&AttributeModifierBolgrifStrengthAbilityScoreIncreaseTitle=Збільшення атрибута
+Feature/&AttributeModifierBolgrifWisdomAbilityScoreIncreaseDescription=Мудрість +2
+Feature/&AttributeModifierBolgrifWisdomAbilityScoreIncreaseTitle=Збільшення атрибута
+Feature/&CastSpellBolgrifMagicDescription=Ви знаєте одну чарівність на свій вибір зі списку заклинань Друїда. Мудрість — це ваша здатність до заклинань.
+Feature/&CastSpellBolgrifMagicTitle=Друїдська магія
+Feature/&EquipmentAffinityBolgrifPowerfulBuildDescription=Ви вважаєте свій розмір великим, коли визначаєте свою вантажопідйомність.
+Feature/&EquipmentAffinityBolgrifPowerfulBuildTitle=Потужна конструкція
+Feature/&PowerBolgrifInvisibilityDescription=Як бонусну дію ви можете стати магічним чином невидимим на 1 раунд. Ця невидимість порушується, якщо ви вживаєте будь-яких наступальних дій. Скориставшись цією здатністю, ви не зможете використовувати її знову, доки не завершите короткий або довгий відпочинок.
+Feature/&PowerBolgrifInvisibilityTitle=Зникнути
+Feature/&ProficiencyBolgrifLanguagesDescription=Звичайний, ельфійський і гігантський.
+Feature/&ProficiencyBolgrifLanguagesTitle=Мову
+Race/&RaceBolgrifDescription=Болгріфи — напівгіганти, що живуть у замерзлих високогір'ях Соласти. Вони хитрі, обережні, замкнуті, не довіряють більшості гуманоїдів, крім ельфів, і вважають за краще жити далеко від цивілізації в згуртованих кланах. Якщо болгріфи вступають у бій, вони демонструють чудові навички володіння зброєю та магією природи.
+Race/&RaceBolgrifTitle=Болгріф

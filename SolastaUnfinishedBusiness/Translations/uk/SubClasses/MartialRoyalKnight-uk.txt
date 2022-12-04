@@ -1,0 +1,8 @@
+﻿Feature/&FeatureSetRoyalKnightRoyalEnvoyDescription=Додайте половину вашого бонусу кваліфікації (округлення в більшу сторону) до будь-якої вашої перевірки Charisma, яка ще не використовує ваш бонус кваліфікації. Крім того, ви навчитеся рятувати кидки Charisma.
+Feature/&FeatureSetRoyalKnightRoyalEnvoyTitle=Королівський посланник
+Feature/&PowerRoyalKnightInspiringSurgeDescription=Надайте союзнику додаткову основну дію на 1 раунд. Не сумується з Action Surge.
+Feature/&PowerRoyalKnightInspiringSurgeTitle=Надихаючий сплеск
+Feature/&PowerRoyalKnightRallyingCryDescription=Замінює «Друге дихання» здатністю відновлювати 4x рівні здоров’я для одного чи кількох союзників у межах 6 клітин, до їхнього максимального рівня здоров’я.
+Feature/&PowerRoyalKnightRallyingCryTitle=Зборний клич
+Subclass/&MartialRoyalKnightDescription=Лицар, який надихає інших на велич, здійснюючи хоробрі вчинки в бою. Королівський лицар — досвідчений воїн, але той, хто очолює загін союзників, може перетворити навіть найпоганіше оснащене ополчення на лютий військовий загін.
+Subclass/&MartialRoyalKnightTitle=Королівський лицар

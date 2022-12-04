@@ -1,0 +1,4 @@
+Feat/&FeatMediumArmorDexDescription=Збільште свою спритність на 1, максимум до 20.\nВи отримуєте майстерність із середньою бронею та щитами.
+Feat/&FeatMediumArmorDexTitle=Середня броня [Dex]
+Feat/&FeatMediumArmorStrDescription=Збільште свою силу на 1, максимум до 20.\nВи отримуєте майстерність із середньою бронею та щитами.
+Feat/&FeatMediumArmorStrTitle=Середня броня [Str]

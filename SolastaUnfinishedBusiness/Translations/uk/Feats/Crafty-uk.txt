@@ -1,0 +1,14 @@
+Feat/&FeatApothecaryIntDescription=Збільште свій інтелект на 1, максимум до 20.\nВи отримуєте майстерність за допомогою набору для лікування травами та Арканами або досвіду, якщо вже є.
+Feat/&FeatApothecaryIntTitle=Аптекар [Int]
+Feat/&FeatApothecaryWisDescription=Збільште свою мудрість на 1, максимум до 20.\nВи отримуєте навички за допомогою набору трав і Аркан, або досвіду, якщо вже є.
+Feat/&FeatApothecaryWisTitle=Аптекар [Wis]
+Feat/&FeatApothecaryChaDescription=Збільште свою харизму на 1, максимум до 20.\nВи отримуєте майстерність за допомогою набору трав і Аркан або досвіду, якщо вже є.
+Feat/&FeatApothecaryChaTitle=Аптекар [Ча]
+Feat/&FeatCraftyScriberDescription=Збільште свій інтелект на 1, максимум до 20.\nВи отримуєте майстерність із набором сувоїв і Арканами або досвід, якщо вже є.
+Feat/&FeatCraftyScriberTitle=Писар
+Feat/&FeatToxicologistIntDescription=Збільште свій інтелект на 1, максимум до 20.\nВи отримуєте навички з набором отруйника та природою або навички, якщо вже є.
+Feat/&FeatToxicologistIntTitle=Токсиколог [Int]
+Feat/&FeatToxicologistWisDescription=Збільште свою мудрість на 1, максимум до 20.\nВи отримуєте навички з набором отруйника та ліками або навички, якщо вже є навичками.
+Feat/&FeatToxicologistWisTitle=Токсиколог [Wis]
+Feat/&FeatToxicologistChaDescription=Збільште свою харизму на 1, максимум до 20.\nВи отримуєте навички з набором для отруйників і поводження з тваринами або навички, якщо вже є навичками.
+Feat/&FeatToxicologistChaTitle=Токсиколог [Ча]

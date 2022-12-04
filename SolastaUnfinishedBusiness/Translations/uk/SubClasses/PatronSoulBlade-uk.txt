@@ -1,0 +1,10 @@
+﻿Feature/&AttackModifierSoulBladeEmpowerWeaponDescription=Зброя використовує модифікатор Харизми для кидків атаки та пошкодження та вважається магічною до тривалого відпочинку.
+Feature/&AttackModifierSoulBladeEmpowerWeaponTitle=Soul Empowered
+Feature/&PowerSoulBladeEmpowerWeaponDescription=Один раз за довгий відпочинок ви можете посилити зброю силою душ. Зброя використовує модифікатор Харизми для кидків атаки та пошкодження та вважається магічною. Тільки одна зброя може бути під цим ефектом.
+Feature/&PowerSoulBladeEmpowerWeaponTitle=Soul Empower
+Feature/&PowerSoulBladeSoulShieldDescription=Один раз за короткий відпочинок ви використовуєте силу душ, щоб захистити себе. Використовуючи бонусну дію, ви отримуєте тимчасові hp, що дорівнюють вашому рівню + модифікатор Харизми.
+Feature/&PowerSoulBladeSoulShieldTitle=Щит душі
+Feature/&PowerSoulBladeSummonPactWeaponDescription=Один раз за короткий відпочинок ви можете викликати духовну форму зброї зі свого договору як безкоштовну дію. Як бонусну дію ви можете направити зброю як завгодно, щоб атакувати своїх ворогів. Зброя рухається на 20 футів кожного разу перед ударом.
+Feature/&PowerSoulBladeSummonPactWeaponTitle=Зброя духовного пакту
+Subclass/&PatronSoulBladeDescription=Ви уклали угоду з розумною зброєю, якою годуєте душі в обмін на силу.
+Subclass/&PatronSoulBladeTitle=SoulBlade

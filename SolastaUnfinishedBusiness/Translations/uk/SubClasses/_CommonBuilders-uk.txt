@@ -1,0 +1,14 @@
+Feature/&AttributeModifierCasterFightingExtraAttackDescription=Ви отримуєте додаткову атаку і тепер можете атакувати до 2 разів за свій хід.
+Feature/&AttributeModifierCasterFightingExtraAttackTitle=Додаткова атака
+Feature/&FeatureSetCasterFightingProficiencyDescription=Ви можете носити легку броню, середню броню та щит, а також навчитись володіти бойовою зброєю.
+Feature/&FeatureSetCasterFightingProficiencyTitle=Броня та зброя
+Feature/&MagicAffinityCasterFightingCombatMagicDescription=Перевага при перевірці концентрації, а також здатності виконувати соматичні компоненти заклинань, тримаючи предмети.
+Feature/&MagicAffinityCasterFightingCombatMagicTitle=Військовий кастинг
+Feature/&PowerCasterFightingWarMagicDescription=Ви можете використовувати свою бонусну дію для атаки, використовуючи зброю в основній руці після застосування заклинання.
+Feature/&PowerCasterFightingWarMagicTitle=Магія війни
+Feature/&PowerCasterCommandUndeadDescription=Ви можете використовувати свою дію кількість разів на день, що дорівнює вашому бонусу до майстерності, щоб взяти нежить під свій контроль. Нежить повинна зробити сейв Харизми (DC дорівнює 8 + PB + ваш модифікатор INT) або бути під контролем протягом 1 хвилини.
+Feature/&PowerCasterCommandUndeadTitle=Команда Нежить
+Feature/&ReplaceAttackWithCantripCasterFightingDescription=Ви можете замінити одну зі своїх атак на підступ.
+Feature/&ReplaceAttackWithCantripCasterFightingTitle=Cantrip Attack
+Feature/&DamageAffinityGenericHardenToNecroticDescription=У вас є імунітет до некротичних ушкоджень, і ваш максимум здоров’я не можна зменшити.
+Feature/&DamageAffinityGenericHardenToNecroticTitle=Затвердіти до некрозу

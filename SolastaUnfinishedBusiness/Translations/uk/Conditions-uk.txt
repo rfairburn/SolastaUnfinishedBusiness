@@ -1,0 +1,8 @@
+﻿Condition/&AfterRestIdentifyDescription=Розпізнавання магічних предметів
+Condition/&AfterRestIdentifyTitle=Ідентифікація
+Condition/&ConditionDistractedByAllyDescription=Цю істоту відволікли.
+Condition/&ConditionDistractedByAllyTitle=Відволікається
+Condition/&ConditionLightSensitivityDescription=Ви маєте перевірку Недоліку мудрості (Сприйняття) при яскравому світлі та отримуєте штраф -1d4 під час кидків атаки.
+Condition/&ConditionLightSensitivityTitle=Світлочутливість
+Condition/&ConditionStopMovementDescription=Неможливо рухатися. Швидкість встановлена ​​на 0.
+Condition/&ConditionStopMovementTitle=Зупинився

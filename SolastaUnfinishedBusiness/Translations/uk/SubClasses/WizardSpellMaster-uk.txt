@@ -1,0 +1,16 @@
+Feature/&MagicAffinitySpellMasterExtraPreparedDescription=Підготуйте додаткові заклинання модифікатора інтелекту, щоб у вас завжди було те, що вам потрібно.
+Feature/&MagicAffinitySpellMasterExtraPreparedTitle=Додатково підготовлений
+Feature/&MagicAffinitySpellMasterKnowledgeDescription=Напишіть додаткове заклинання на кожному рівні.
+Feature/&MagicAffinitySpellMasterKnowledgeTitle=Широта знань
+Feature/&MagicAffinitySpellMasterPreparedDescription=Підготуйте додаткові заклинання, щоб у вас завжди було те, що вам потрібно.
+Feature/&MagicAffinitySpellMasterPreparedTitle=Будь готовий
+Feature/&MagicAffinitySpellMasterRecoveryDescription=Один раз за довгий відпочинок ви можете відновити слоти для заклинань (на додаток до Arcane Recovery).
+Feature/&MagicAffinitySpellMasterRecoveryTitle=Таємнича глибина
+Feature/&MagicAffinitySpellMasterScriberDescription=Написання заклинань займає 1/4 часу та грошей, і ви маєте перевагу.
+Feature/&MagicAffinitySpellMasterScriberTitle=Майстер писар
+Feature/&PointPoolSpellMasterBonusCantripsDescription=Отримайте 2 додаткові відомі спроби.
+Feature/&PointPoolSpellMasterBonusCantripsTitle=Бонусні розваги
+Feature/&SavingThrowAffinitySpellMasterSpellResistanceDescription=Ваше навчання магії дає вам перевагу в рятувальних кидках проти заклинань.
+Feature/&SavingThrowAffinitySpellMasterSpellResistanceTitle=Стійкість до заклинань
+Subclass/&WizardSpellMasterDescription=Майстри заклинань занурюються в магію та намагаються вивчити кожне заклинання, до якого потрапляють. Вони не мають собі рівних у знанні заклинань.
+Subclass/&WizardSpellMasterTitle=Майстер заклинань

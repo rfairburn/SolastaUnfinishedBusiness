@@ -1,0 +1,8 @@
+Condition/&ConditionOpportunistDebilitatedDescription=Знесилений.
+Condition/&ConditionOpportunistDebilitatedTitle=Знесилений
+Feature/&OnComputeAttackModifierOpportunistQuickStrikeDescription=Ви маєте перевагу, атакуючи ворогів, чия ініціатива нижча за вашу. Крім того, ви також маєте перевагу під час виконання атак можливостей.
+Feature/&OnComputeAttackModifierOpportunistQuickStrikeTitle=Швидкий удар
+Feature/&PowerOpportunistDebilitatingStrikeDescription=Ваша таємна атака змушує ціль робити рятувальний кидок «Конституція» (DC 8 + ваш бонус майстерності + ваш модифікатор спритності) або переживати одну з таких умов: осліплення, прокляття, кровотеча або приголомшення.
+Feature/&PowerOpportunistDebilitatingStrikeTitle=Виснажливий удар
+Subclass/&RoguishOpportunistDescription=Опортуністи - це ті, хто ніколи не пропускає шанс добити своїх ворогів. Вони колють швидко і колють там, де це важливо. Не багато людей, які стикаються з ними, можуть залишитися неподряпаними.
+Subclass/&RoguishOpportunistTitle=Опортуніст

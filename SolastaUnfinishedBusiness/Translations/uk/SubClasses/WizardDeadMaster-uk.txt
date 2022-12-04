@@ -1,0 +1,12 @@
+﻿Feature/&AutoPreparedSpellsDeadMasterDescription={0}.
+Feature/&AutoPreparedSpellsDeadMasterTitle=Заклинання мертвого майстра
+Feature/&TargetReducedToZeroHpDeadMasterStarkHarvestDescription=Один раз за хід, коли ви вбиваєте істоту заклинанням 1-го рівня або вище, ви відновлюєте очки життя, що дорівнюють подвійному рівню заклинання або потрійному його рівню, якщо заклинання належить до Школи некромантії. Якщо ваше здоров’я повне, ви натомість отримуєте тимчасові цілі. Ви не отримуєте цю перевагу за вбивство конструктів або нежиті.
+Feature/&TargetReducedToZeroHpDeadMasterStarkHarvestTitle=Старк Урожай
+Feature/&SummoningAffinityDeadMasterUndeadChainsDescription=Нежить, створена вами, має максимальну кількість здоров’я, збільшену на 2 HP за ваш рівень майстра, і додає ваш бонус майстерності до кидків атаки.
+Feature/&SummoningAffinityDeadMasterUndeadChainsTitle=Ланцюги нежиті
+Subclass/&WizardDeadMasterDescription=Мертві майстри вчаться маніпулювати енергією, яка оживляє все живе. У міру просування ви навчитеся витягувати життєву силу істоти, коли ваша магія руйнує її тіло, перетворюючи цю життєву енергію на магічну силу, якою ви можете маніпулювати.
+Subclass/&WizardDeadMasterTitle=Мертвий майстер
+Spell/&SpellRaiseDeadFormatDescription=Виклик <b>{0}</b>:\n{1}
+Spell/&SpellRaiseDeadFormatTitle=Підвищити {0}
+Screen/&DeadMasterSpellDescription=Це заклинання Мертвого Майстра завжди готове.
+Screen/&DeadMasterSpellTitle=Нежить

@@ -1,0 +1,6 @@
+﻿Condition/&ConditionDualFlurryGrantDescription=Твої вороги хитаються!
+Condition/&ConditionDualFlurryGrantTitle=Подвійний шквал!
+Feat/&FeatDualFlurryDescription=Ви майстер бою з парною зброєю. Під час будь-якого ходу, коли ви б’єте двічі рукопашними атаками, тримаючи зброю в кожній руці, ви можете здійснити додаткову атаку рукою, атакуючи своєю бонусною дією.
+Feat/&FeatDualFlurryTitle=Подвійний шквал
+Feat/&FeatDualWeaponDefenseDescription=Ви отримуєте бонус +1 до AC, тримаючи окрему холодну зброю в кожній руці.
+Feat/&FeatDualWeaponDefenseTitle=Захист подвійною зброєю
