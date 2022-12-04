@@ -57,6 +57,60 @@ internal static class ToolsContext
 
         ServiceRepository.GetService<IFunctorService>().RegisterFunctor(RespecName, new FunctorRespec());
         SwitchRespec();
+        TweakGameNarrativesForPartySize();
+    }
+
+    private static void TweakGameNarrativesForPartySize()
+    {
+        PersonalityFlagDefinitionBuilder
+            .Create("GpPlayer5")
+            .SetGuiPresentationNoContent(true)
+            .AddToDB();
+
+        PersonalityFlagDefinitionBuilder
+            .Create("GpPlayer6")
+            .SetGuiPresentationNoContent(true)
+            .AddToDB();
+
+        var dbCampaignDefinition = DatabaseRepository.GetDatabase<CampaignDefinition>();
+
+        foreach (var campaignDefinition in dbCampaignDefinition
+                     .Where(x => x.AutoGameplayRoles.Count > 0))
+        {
+            campaignDefinition.AutoGameplayRoles.Add(new CampaignDefinition.GameplayRoleFilter
+            {
+                personalityFlag = "GpPlayer5", gameplayRoleName = "RoleGpPlayer5"
+            });
+
+            campaignDefinition.AutoGameplayRoles.Add(new CampaignDefinition.GameplayRoleFilter
+            {
+                personalityFlag = "GpPlayer6", gameplayRoleName = "RoleGpPlayer6"
+            });
+        }
+
+        var dbNarrativeTreeDefinition = DatabaseRepository.GetDatabase<NarrativeTreeDefinition>();
+
+        foreach (var narrativeStateDescription in dbNarrativeTreeDefinition
+                     .SelectMany(x => x.AllNarrativeStateDescriptions))
+        {
+            var playerMarksCount =
+                narrativeStateDescription.CharacterTeleportDescriptions.Count(x => x.PlayerMarkerIndex >= 0);
+
+            if (playerMarksCount != GamePartySize)
+            {
+                continue;
+            }
+
+            narrativeStateDescription.CharacterTeleportDescriptions.Add(new DialogCharacterTeleportDescription
+            {
+                npcMarkerIndex = GamePartySize, role = "GpPlayer5"
+            });
+
+            narrativeStateDescription.CharacterTeleportDescriptions.Add(new DialogCharacterTeleportDescription
+            {
+                npcMarkerIndex = GamePartySize + 1, role = "GpPlayer6"
+            });
+        }
     }
 
     internal static void SwitchRespec()
